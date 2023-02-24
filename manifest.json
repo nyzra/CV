@@ -1,6 +1,6 @@
 {
-    "name": "site_presentation",
-    "short_name": "site_presentation",
+    "name": "cv",
+    "short_name": "cv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
